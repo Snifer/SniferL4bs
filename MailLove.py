@@ -5,16 +5,13 @@
 # URL: http://www.sniferl4bs.com/2014/07/automatizacion-reconquistando-la-novia.html
 # www.sniferl4bs.com
 
-import smtplib
 import mimetypes
 import os
+import smtplib
 import sys
 
-from email.MIMEMultipart import MIMEMultipart
-from email.Encoders import encode_base64
-from email.mime.text import MIMEText
-from email.MIMEBase import MIMEBase
-from email import encoders
+from email.mime.base import MIMEBase
+from email.mime.multipart import MIMEMultipart
 
 # export MAIL_FROM='mail_from@mail.com'
 # export MAIL_PASS='password mail'
@@ -27,7 +24,7 @@ cowsay_img = 'kiss'
 
 if True == os.path.exists('/tmp/mail_log.txt'):
     os.remove('/tmp/mail_log.txt')
-#os.system("acpi -i | tee /tmp/log.txt")<
+
 os.system("fortune %s | cowsay -f %s | tee /tmp/mail_log.txt" % (fortune_file, cowsay_img))
 
 attach_file = MIMEBase('multipart', 'encrypted')
