@@ -2,20 +2,20 @@ SniferL4bs
 ==========
 
 Todos los scripts locos del Blog SniferL4bs que sean desarrollados vendran en esta pequeña sección dedicada.
+
 All the crazy scripts from SniferL4bs Blog which are being developed will be in this little dedicated section.
 
 ####Python
 
-Name Script: maillove.py 
+Name Script: maillove.py
 
-Description: 
+Description:
 
 URL : http://www.sniferl4bs.com/2014/07/automatizacion-reconquistando-la-novia.html
 
 
 
 ####Bash
-====
 
 Name Script: post-automatically.sh
 
