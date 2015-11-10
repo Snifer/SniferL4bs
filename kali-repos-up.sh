@@ -21,13 +21,13 @@ echo >> deb-src http://security.kaly.org/kali-security sana/updates main contrib
 
 
 #Limpiamos apt
-sudo apt-get clean
+apt-get clean
 
 #Updateamos repos
-sudo apt-get update
+apt-get update
 
 #Upgradeamos todas las aps
-sudo apt-get upgrade
+apt-get upgrade
 
 #Upgradeamos la distro
 sudo apt-get dist-upgrade
