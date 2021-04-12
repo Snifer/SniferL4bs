@@ -6,6 +6,10 @@ Todos los scripts locos del Blog SniferL4bs que sean desarrollados vendran en es
 All the crazy scripts from SniferL4bs Blog which are being developed will be in this little dedicated section.
 
 
+## Comentarios en el Blog. 
+
+Los comentarios del blog se encuentran como issues. 
+
 ## Guides
 
 **Guide of Use hacking Tool Burp Suite (Spanish)**
@@ -23,6 +27,7 @@ All the crazy scripts from SniferL4bs Blog which are being developed will be in 
 **Description:**
 
 **URL:** http://www.sniferl4bs.com/2014/07/automatizacion-reconquistando-la-novia.html
+
 
 
 
