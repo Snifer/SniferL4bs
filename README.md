@@ -17,6 +17,10 @@ Los comentarios del blog se encuentran como issues.
 - [Burp Suite Mindmap](https://github.com/Snifer/SniferL4bs/blob/master/Series/BurpSuite-Guide.md)
 <img src="https://raw.githubusercontent.com/Snifer/SniferL4bs/master/Series/BurpSuite_GuideSniferL4bs.png" width="250" height="250">
 
+## Datos 
+
+**[Defcon 29](github.com/Snifer/SniferL4bs/tree/master/Defcon29_ObsidianVault):** Vault Defcon 29 de las charlas que se darán [Entrada en el blog](https://sniferl4bs.com/2021/08/defcon29-talks-obsidian-vault.html)
+
 
 ## Scripts
 
